@@ -1,0 +1,6 @@
+framework module Pods_Kommunicate_app {
+  umbrella header "Pods-Kommunicate app-umbrella.h"
+
+  export *
+  module * { export * }
+}

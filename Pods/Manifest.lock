@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.1)
+  - CHTCollectionViewWaterfallLayout/Swift (0.9.7)
+  - Kingfisher (4.10.1)
+  - SkeletonView (1.13.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CHTCollectionViewWaterfallLayout/Swift
+  - Kingfisher
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CHTCollectionViewWaterfallLayout
+    - Kingfisher
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  CHTCollectionViewWaterfallLayout: 9d11068fafecac106695bb5a5d6d0f738483b598
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SkeletonView: 2b14cb767a7da384d17d5d7e1db0d55a6cf9566a
+
+PODFILE CHECKSUM: b211db19f54e3fe012dc19402728605c25f161fc
+
+COCOAPODS: 1.10.1
